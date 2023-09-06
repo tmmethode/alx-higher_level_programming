@@ -1,1 +1,1 @@
-Read me text for alx high level programming language
+alx high level programming language
